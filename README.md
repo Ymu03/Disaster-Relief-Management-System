@@ -1,4 +1,4 @@
-# Disaster Response Management System (DRMS)
+# Disaster Relief Management System (DRMS)
 
 A comprehensive system for managing and responding to disaster events.
 
