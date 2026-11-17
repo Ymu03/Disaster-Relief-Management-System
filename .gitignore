@@ -28,3 +28,11 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+# Environment files
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+**/dist/
